@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<HTML>
+<TITLE> Modulo 07 </title>
+<head>
+<body>
+<p><font face= "calibri" size="4"> inserindo <u>Link</u> em um texto.
+</p>
+<a href="http:www.google.com">Clique aqui</a>para acessar o Google.</font>
+</body>
+</html>
